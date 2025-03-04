@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="[https://about.me/contenla">GianlucaCL</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://about.me/contenla">GianlucaCL</a> 👋</h1>
 </div>
-<img src=![Yellow and Blue Bold Geometric Software Developer LinkedIn Banner](https://github.com/user-attachments/assets/f2a3dacf-96cf-4d08-8efb-e1a7694113d0)
+<img src="https://imgur.com/a/wq2VOAL">
 ""
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
