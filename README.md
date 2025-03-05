@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://about.me/contenla">GianlucaCL</a> 👋</h1>
+<h1 align="center">Hi everyone, I am <a href="https://about.me/contenla">GianlucaCL</a> 👋</h1>
 </div>
 <img src="https://images2.imgbox.com/b3/fa/Mv5tgfdk_o.png">
 
