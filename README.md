@@ -10,8 +10,8 @@
 
 - ⭐ Github Enthusiast ⭐ 
 - 📊 Data Scientist & Computer Engineering student.
-- 🐍 Python
-- 📈 Stock Market Investor
+- 🐍 Python Programmer
+- 📈 Stock Market & Real Estate Investor
 <br>
 <!--
 **GianlucaCL/GianlucaCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
