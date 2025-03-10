@@ -12,6 +12,7 @@
 - 📊 Data Scientist & Computer Engineering student.
 - 🐍 Python Programmer
 - 📈 Stock Market & Real Estate Investor
+- 🌐 Polyglot
 <br>
 <!--
 **GianlucaCL/GianlucaCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
