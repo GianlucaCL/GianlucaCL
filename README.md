@@ -8,10 +8,8 @@
 
 ## Sobre mi
 
-- ⭐ Github Enthusiast ⭐ 
 - 📊 Data Scientist & Computer Engineering student.
 - 🐍 Python Programmer
-- 📈 Stock Market & Real Estate Investor
 - 🌐 Polyglot
 <br>
 <!--
